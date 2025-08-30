@@ -80,4 +80,4 @@ EXPIR : recentrage, retour à soi, au DTI. Concept d'ancrage de stabilité liée
 
 
 Poursuivre la lecture:  
-[QUELQUES NOTIONS DE MÉDECINE CHINOISE TRADITIONNELLE UTILES POUR LA PRATIQUE ]()
+[QUELQUES NOTIONS DE MÉDECINE CHINOISE TRADITIONNELLE UTILES POUR LA PRATIQUE ](/qi-gong/notions-mtc-utiles)
