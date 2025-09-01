@@ -8,7 +8,7 @@ publication_date: "2020/08/16"
 summary_heading: "Association QI Gong Go!"
 summary: |
   Présentation de l'association "QI Gong Go!"
-head_image: /assets/images/qi-gong/qi.png
+head_image: /assets/images/qi-gong/qi-large.png
 head_img_title: QI
 ---
 

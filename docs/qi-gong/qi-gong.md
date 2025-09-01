@@ -8,7 +8,7 @@ publication_date: "2020/05/14"
 summary_heading: "Qi Gong"
 summary: |
   Indications pour la pratique du QI Gong
-head_image: /assets/images/qi-gong/qi.png
+head_image: /assets/images/qi-gong/qi-large.png
 head_img_title: QI
 ---
 ## INDICATIONS POUR LA PRATIQUE DU QI GONG
