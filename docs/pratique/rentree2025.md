@@ -30,6 +30,7 @@ Au programme cette année:
 - Auto-massages
 
 Mouvements proposés:
+
 - Huit pièces de brocart
 - 18 mouvements du QI GONG TAI JI
 - 24 TAOÏSTES
@@ -37,6 +38,7 @@ Mouvements proposés:
 - SOUFFLE DU VENT ET HARMONISATION DES TROIS TRÉSORS - Song Arun
 
 MÉDITATION
+
 - 8 TRIGRAMMES
 - SIX SONS POUR L’ÉNERGIE DES ORGANES
 
