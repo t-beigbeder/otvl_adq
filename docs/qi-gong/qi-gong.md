@@ -5,6 +5,7 @@ url_fixed: /qi-gong/qi-gong
 title: "Qi Gong"
 version: "1.0"
 publication_date: "2020/05/14"
+update_date: "2020-05-14"
 summary_heading: "Qi Gong"
 summary: |
   Indications pour la pratique du QI Gong
