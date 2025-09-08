@@ -33,7 +33,7 @@ ___
 
 Automne 2022:
 
-Liste à télécharger [fixme](/5a7/documents/20221126-24-mouvements-du-tao.pdf) - ici
+Liste à télécharger [ici](/5a7/documents/20221126-24-mouvements-du-tao.pdf)
 
 Lien vers la [vidéo n°1](https://www.youtube.com/watch?v=dYwt9-Ag5d4)
 
@@ -45,7 +45,7 @@ ___
 
 Lundi 24 janvier 2022:
 
-Traité des muscles et des tendons [fixme](/5a7/videos/seances/20220124-muscles-tendons.mp4) - vidéo
+Traité des muscles et des tendons [vidéo](/5a7/videos/seances/20220124-muscles-tendons.mp4)
 
 ___
 
@@ -53,7 +53,7 @@ ___
 
 Lundi 17 janvier 2022:
 
-Méditation des mille mains de Bouddha [fixme](/5a7/videos/seances/20220118-meditation-1000-mains-bouddha.mp4) - vidéo
+Méditation des mille mains de Bouddha [vidéo](/5a7/videos/seances/20220118-meditation-1000-mains-bouddha.mp4)
 
 ___
 
@@ -61,14 +61,14 @@ ___
 
 Mardi 14 décembre 2021:
 
-- méditation des 8 trigrammes [fixme](/5a7/documents/20211214-Meditation8Trigrammes.pdf) - fichier PDF
-- méditation WU JI [fixme](/5a7/documents/20211214-WuJi.pdf) - fichier PDF
+- méditation des 8 trigrammes [fichier PDF](/5a7/documents/20211214-Meditation8Trigrammes.pdf)
+- méditation WU JI [fichier PDF](/5a7/documents/20211214-WuJi.pdf)
 
 ___
 
 ### MÉDITATION METTA N°1 
 
-Mardi 13 avril 2021: Bhante Henepola Gunaratana, [fixme](/5a7/documents/20210423-METTA-BHANTE-HG.pdf) - fichier PDF.
+Mardi 13 avril 2021: Bhante Henepola Gunaratana, [fichier PDF](/5a7/documents/20210423-METTA-BHANTE-HG.pdf).
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 Voici le lien vers la vidéo enregistrée pendant la séance à distance le samedi 10 avril 2021:
 
-[fixme](/5a7/videos/seances/20210410-les-neuf-petits-cieux.mp4) - Les neuf petits cieux
+[Les neuf petits cieux](/5a7/videos/seances/20210410-les-neuf-petits-cieux.mp4)
 [1 heure 16 minutes / 97 Mo]
 
 ___
@@ -85,10 +85,10 @@ ___
 
 Voici les liens vers les vidéos enregistrées pendant la séance à distance le samedi 30 janvier 2021:
 
-[fixme](/5a7/videos/seances/20210130-ouverture-des-articulations.mp4) - Ouverture des articulations
+[Ouverture des articulations](/5a7/videos/seances/20210130-ouverture-des-articulations.mp4)
 [20 minutes / 26 Mo]
 
-[fixme](/5a7/videos/seances/20210130-muscles-et-tendons.mp4) - Qi Gong des muscles et des tendons
+[Qi Gong des muscles et des tendons](/5a7/videos/seances/20210130-muscles-et-tendons.mp4)
 [26 minutes / 32 Mo]
 
 ___
@@ -97,7 +97,7 @@ ___
 
 Voici le lien vers la vidéo enregistrée pendant la séance à distance le mardi 19 janvier 2021:
 
-[fixme](/5a7/videos/seances/20210119-mouvements-hiver.mp4) - Mouvements d'hiver
+[Mouvements d'hiver](/5a7/videos/seances/20210119-mouvements-hiver.mp4)
 [36 minutes / 41 Mo]
 
 ___
@@ -106,7 +106,7 @@ ___
 
 Voici le lien vers la vidéo enregistrée pendant la séance à distance le mardi 8 décembre 2020:
 
-[fixme](/5a7/videos/seances/20201208-petite-circulation.mp4) - Petite circulation céleste
+[Petite circulation céleste](/5a7/videos/seances/20201208-petite-circulation.mp4)
 [1h 20 minutes / 72 Mo]
 
 ___
@@ -115,7 +115,7 @@ ___
 
 Voici le lien vers la vidéo enregistrée pendant la séance à distance le samedi 5 décembre 2020:
 
-[fixme](/5a7/videos/seances/20201205-dao-yin-nei-gong.mp4) - Dao Yin Nei Gong
+[Dao Yin Nei Gong](/5a7/videos/seances/20201205-dao-yin-nei-gong.mp4)
 [1h 20 minutes / 92 Mo]
 
 ___
@@ -124,7 +124,7 @@ ___
 
 Voici le lien vers la vidéo enregistrée pendant la séance à distance le mardi 16 juin 2020:
 
-[fixme](/5a7/videos/seances/20200616-jeu-cinq-animaux.mp4) - Jeu des cinq animaux
+[Jeu des cinq animaux](/5a7/videos/seances/20200616-jeu-cinq-animaux.mp4)
 [1h 20 minutes / 300 Mo]
 
 ___
@@ -132,7 +132,7 @@ ___
 ### Méditations guidées
 
 Lien vers l'enregistrement audio:
-[fixme](/5a7/audios/20200516-meditation_guidee.m4a) - Méditation guidée (audio)
+[Méditation guidée (audio)](/5a7/audios/20200516-meditation_guidee.m4a)
 
 - Développer une présence intérieure
 - Amour bienveillant
@@ -143,7 +143,7 @@ ___
 
 Voici le lien vers la vidéo enregistrée pendant la séance à distance le samedi 18 avril 2020:
 
-[fixme](/5a7/videos/seances/20200418-meditation_huit_trigrammes.mp4) - Méditation des huit trigrammes
+[Méditation des huit trigrammes](/5a7/videos/seances/20200418-meditation_huit_trigrammes.mp4)
 [29 minutes / 80 Mo]
 
 ___
@@ -152,7 +152,7 @@ ___
 
 Voici le lien vers la vidéo enregistrée pendant la séance à distance le samedi 11 avril 2020:
 
-[fixme](/5a7/videos/seances/20200411-huit_pieces_brocart_shaolin.mp4) - Huit pièces de brocart de l'école Shaolin
+[Huit pièces de brocart de l'école Shaolin](/5a7/videos/seances/20200411-huit_pieces_brocart_shaolin.mp4)
 [37 minutes / 130 Mo]
 
 ___
@@ -245,10 +245,10 @@ ___
 ### QI GONG PRIMORDIAL
 
 Ouverture:
-[fixme](/prive/20171117-qiGongPrimordial-ouverture) - vidéo
+[vidéo](/prive/20171117-qiGongPrimordial-ouverture)
 (_ce lien provoquera le chargement d'une vidéo de 9 Mo dans une page dédiée_).  
 Mouvements:
-[fixme](/prive/20171117-qiGongPrimordial-mouvements) - vidéo
+[vidéo](/prive/20171117-qiGongPrimordial-mouvements)
 (_ce lien provoquera le chargement d'une vidéo de 34 Mo !!! dans une page dédiée_).
 
 - Tremblements
@@ -262,7 +262,7 @@ ___
 
 ### LES CINQ FORCES DU QI
 
-[fixme](/5a7/documents/20170317-lesCinqForcesDuQi.pdf) -  Document PDF à visualiser ou télécharger.
+[Document PDF à visualiser ou télécharger](/5a7/documents/20170317-lesCinqForcesDuQi.pdf).
 
 ___
 
@@ -272,9 +272,9 @@ QI Gong de la sagesse.
 Première méthode.  
 Affichez ou téléchargez les fichier PDF:
 
-- [fixme](/5a7/documents/20170317-znqg-pres.pdf ) -  présentation
-- [fixme](/5a7/documents/20170317-znqg-points.pdf ) -  les points
-- [fixme](/5a7/documents/20170317-znqg-mvts.pdf ) -  les mouvements
+- [présentation](/5a7/documents/20170317-znqg-pres.pdf)
+- [les points](/5a7/documents/20170317-znqg-points.pdf)
+- [les mouvements](/5a7/documents/20170317-znqg-mvts.pdf)
 
 Lien vers une
 [vidéo](https://www.youtube.com/watch?v=vx98FX7DoVE)
@@ -285,8 +285,7 @@ ___
 
 ### L'OUVERTURE DES ARTICULATIONS
 
-[fixme](/prive/20170227-ouverture-articulations ) -  Vidéo 
-
+[Vidéo](/prive/20170227-ouverture-articulations)
 _ce lien provoquera le chargement d'une vidéo de 8 Mo dans une page dédiée_
 
 ___
@@ -300,9 +299,8 @@ ___
 1. L'éveil des 4 dragons - posture
 1. La danse du dragon
 
-[fixme](/prive/20170226-dragon1setire ) -  Vidéo des mouvements 1 à 5 
-
-[fixme](/prive/20170226-dragon2danse ) -  Vidéo du mouvement 6 
+[Vidéo des mouvements 1 à 5 ](/prive/20170226-dragon1setire)
+[Vidéo du mouvement 6 ](/prive/20170226-dragon2danse)
 
 _ces liens provoqueront le chargement d'une vidéo de 7 Mo max dans une page dédiée_
 
@@ -310,9 +308,9 @@ ___
 
 ### ETIREMENTS DES MERIDIENS DE LA VESSIE ET DU REIN
 
-[fixme](/prive/20170116-etirt-merid-vessie ) -  Etirement du méridien de la vessie 
+[Etirement du méridien de la vessie ](/prive/20170116-etirt-merid-vessie)
 
-[fixme](/prive/20170116-etirt-merid-rein ) -  Etirement du méridien du rein 
+[Etirement du méridien du rein](/prive/20170116-etirt-merid-rein)
 
 _ces liens provoqueront le chargement d'une vidéo de 3 Mo max dans une page dédiée_
 
@@ -322,36 +320,32 @@ ___
 
 Vidéos:
 
-- 1 - [fixme](/prive/20170115-tmt01-ouverture ) -  Ouverture
-- 2 - [fixme](/prive/20170115-tmt02-m1p1 ) -  Premier mouvement - première partie
-- 3 - [fixme](/prive/20170115-tmt03-m1p2a ) -  Premier mouvement - deuxième partie 1/2
-- 4 - [fixme](/prive/20170115-tmt04-m1p2b ) -  Premier mouvement - deuxième partie 2/2
-- 5 - [fixme](/prive/20170115-tmt05-m1p3 ) -  Premier mouvement - troisième partie
-- 6 - [fixme](/prive/20170115-tmt12-fermeture-mvt ) -  Premier mouvement - fermeture
-- 7 - [fixme](/prive/20170115-tmt06-m2p1 ) -  Deuxième mouvement - première partie
-- 8 - [fixme](/prive/20170115-tmt07-m2p2 ) -  Deuxième mouvement - deuxième partie
-- 9 - [fixme](/prive/20170115-tmt12-fermeture-mvt ) -  Deuxième mouvement - fermeture
-- 10 - [fixme](/prive/20170115-tmt08-m3p1 ) -  Troisième mouvement - première partie
-- 11 - [fixme](/prive/20170115-tmt09-m3p2a ) -  Troisième mouvement - deuxième partie 1/2
-- 12 - [fixme](/prive/20170115-tmt10-m3p2b ) -  Troisième mouvement - deuxième partie 2/2
-- 13 - [fixme](/prive/20170115-tmt11-m3p3 ) -  Troisième mouvement - troisième partie
-- 14 - [fixme](/prive/20170115-tmt12-fermeture-mvt ) -  Troisième mouvement - fermeture
-- 15 - [fixme](/prive/20170115-tmt13-fermeture ) -  Fermeture
+- 1 - [Ouverture](/prive/20170115-tmt01-ouverture)
+- 2 - [Premier mouvement - première partie](/prive/20170115-tmt02-m1p1)
+- 3 - [Premier mouvement - deuxième partie 1/2](/prive/20170115-tmt03-m1p2a)
+- 4 - [Premier mouvement - deuxième partie 2/2](/prive/20170115-tmt04-m1p2b)
+- 5 - [Premier mouvement - troisième partie](/prive/20170115-tmt05-m1p3)
+- 6 - [Premier mouvement - fermeture](/prive/20170115-tmt12-fermeture-mvt)
+- 7 - [Deuxième mouvement - première partie](/prive/20170115-tmt06-m2p1)
+- 8 - [Deuxième mouvement - deuxième partie](/prive/20170115-tmt07-m2p2)
+- 9 - [Deuxième mouvement - fermeture](/prive/20170115-tmt12-fermeture-mvt)
+- 10 - [Troisième mouvement - première partie](/prive/20170115-tmt08-m3p1)
+- 11 - [Troisième mouvement - deuxième partie 1/2](/prive/20170115-tmt09-m3p2a)
+- 12 - [Troisième mouvement - deuxième partie 2/2](/prive/20170115-tmt10-m3p2b)
+- 13 - [Troisième mouvement - troisième partie](/prive/20170115-tmt11-m3p3)
+- 14 - [Troisième mouvement - fermeture](/prive/20170115-tmt12-fermeture-mvt)
+- 15 - [Fermeture](/prive/20170115-tmt13-fermeture)
 
 
 ___
 
 ### LES MOUVEMENTS DU QI, DU CIEL, DE L'HOMME ET DE LA TERRE
-
-Vidéos:
-
-- [fixme](/prive/20160213-11-mouvementsDuQi ) -  MOUVEMENTS DU QI
-- [fixme](/prive/20160213-12-mouvementsDuCiel ) -  MOUVEMENTS DU CIEL
-- [fixme](/prive/20160213-13-mouvementsDeLHomme ) -  MOUVEMENTS DE L'HOMME
-- [fixme](/prive/20160213-14-mouvementsDeLaTerre ) -  MOUVEMENTS DE LA TERRE
+- [MOUVEMENTS DU CIEL](/prive/20160213-12-mouvementsDuCiel)
+- [MOUVEMENTS DE L'HOMME](/prive/20160213-13-mouvementsDeLHomme)
+- [MOUVEMENTS DE LA TERRE](/prive/20160213-14-mouvementsDeLaTerre)
 
 ___
 
 ### LES POINTS DE LA PETITE CIRCULATION MICROCOSMIQUE
 
-[fixme](/prive/20160213-01-pointsPetiteCirculation ) -  Voir ici
+[Voir ici](/prive/20160213-01-pointsPetiteCirculation)
