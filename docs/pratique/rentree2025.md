@@ -15,7 +15,8 @@ head_img_title: QI
 Les séances de QI GONG reprendront le samedi 13 septembre à 10h
 chemin de la Rivière à Poucharramet.
 
-Dimanche 7, salle de la Commanderie à Poucharramet Forum des associations
+Dimanche 7, salle de la Commanderie à Poucharramet Forum des associations.
+
 Possibilité de faire à 11h une petite séance de remise en route de 45 mn
 en extérieur s'il fait beau.
 
