@@ -5,10 +5,11 @@ url_fixed: /qi-gong/qi-gong
 title: "Qi Gong"
 version: "1.0"
 publication_date: "2020/05/14"
+update_date: "2020-05-14"
 summary_heading: "Qi Gong"
 summary: |
   Indications pour la pratique du QI Gong
-head_image: /assets/images/qi-gong/qi.png
+head_image: /assets/images/qi-gong/qi-large.png
 head_img_title: QI
 ---
 ## INDICATIONS POUR LA PRATIQUE DU QI GONG
@@ -80,4 +81,4 @@ EXPIR : recentrage, retour à soi, au DTI. Concept d'ancrage de stabilité liée
 
 
 Poursuivre la lecture:  
-[QUELQUES NOTIONS DE MÉDECINE CHINOISE TRADITIONNELLE UTILES POUR LA PRATIQUE ]()
+[QUELQUES NOTIONS DE MÉDECINE CHINOISE TRADITIONNELLE UTILES POUR LA PRATIQUE ](/qi-gong/notions-mtc-utiles)

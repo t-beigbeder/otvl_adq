@@ -8,7 +8,7 @@ publication_date: "2020/08/17"
 summary_heading: "Notions de MTC utiles"
 summary: |
   Quelques notions de Médecine Traditionnelle chinoise utiles
-head_image: /assets/images/qi-gong/qi.png
+head_image: /assets/images/qi-gong/qi-large.png
 head_img_title: QI
 ---
 

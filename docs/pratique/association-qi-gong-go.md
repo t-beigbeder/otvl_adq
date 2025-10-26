@@ -8,8 +8,8 @@ publication_date: "2020/08/16"
 summary_heading: "Association QI Gong Go!"
 summary: |
   Présentation de l'association "QI Gong Go!"
-head_image: /assets/images/actualites/soleil-64.png
-head_img_title: Le soleil!
+head_image: /assets/images/qi-gong/qi-large.png
+head_img_title: QI
 ---
 
 [QI Gong Go!](https://www.journal-officiel.gouv.fr/associations/detail-annonce/associations_b/20120005/462)
