@@ -17,8 +17,22 @@ Scéances enregistrées
 
 - [CinqAnimauxCerfUn](/5a7/videos/seances/20260101-CinqAnimauxCerfUn.mp4)
 - [CinqAnimauxCerfDeux](/5a7/videos/seances/20260101-CinqAnimauxCerfDeux.mp4)
+- [CinqAnimauxSingeUn](/5a7/videos/seances/20260101-CinqAnimauxSingeUn.mp4)
+- [CinqAnimauxSingeDeux.mp4](/5a7/videos/seances/20260101-CinqAnimauxSingeDeux.mp4)
+- [CinqAnimauxWuDangDragonBras](/5a7/videos/seances/20260101-CinqAnimauxWuDangDragonBras.mp4)
+- [CinqAnimauxWuDangDragon](/5a7/videos/seances/20260101-CinqAnimauxWuDangDragon.mp4)
+- [CinqAnimauxWuDangSerpentStatiqueUn](/5a7/videos/seances/20260101-CinqAnimauxWuDangSerpentStatiqueUn.mp4)
+- [CinqAnimauxWuDangSerpentStatiqueDeuxTrois](/5a7/videos/seances/20260101-CinqAnimauxWuDangSerpentStatiqueDeuxTrois.mp4)
+- [LeSouffleDuvent](/5a7/videos/seances/20260101-LeSouffleDuvent.mp4)
+- [MeditationHuitTrigrammes](/5a7/videos/seances/20260101-MeditationHuitTrigrammes.mp4)
+- [PiecesBrocard7](/5a7/videos/seances/20260101-PiecesBrocard7.mp4)
+- [PiecesBrocard8](/5a7/videos/seances/20260101-PiecesBrocard8.mp4)
+- [TortueWuDangMarcheUnBis](/5a7/videos/seances/20260101-TortueWuDangMarcheUnBis.mp4)
+- [TortueWuDangMarcheUn](/5a7/videos/seances/20260101-TortueWuDangMarcheUn.mp4)
 
+Ne pas oublier qu'on avait filmé les cinq animaux: séance à distance le mardi 16 juin 2020:
 
+[Jeu des cinq animaux](/5a7/videos/seances/20200616-jeu-cinq-animaux.mp4) [1h 20 minutes / 300 Mo]
 ___
 
 ### Programme 2024 2025
