@@ -11,6 +11,16 @@ no_index: true
 
 ___
 
+### Vidéos 2025 2026
+
+Scéances enregistrées
+
+- [CinqAnimauxCerfUn](/5a7/videos/seances/20260101-CinqAnimauxCerfUn.mp4)
+- [CinqAnimauxCerfDeux](/5a7/videos/seances/20260101-CinqAnimauxCerfDeux.mp4)
+
+
+___
+
 ### Programme 2024 2025
 
 à télécharger [ici](/5a7/documents/20240831-Programme2024-2025.pdf)
